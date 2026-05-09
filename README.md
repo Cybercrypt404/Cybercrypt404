@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, there
 
-<!--
-**Cybercrypt404/Cybercrypt404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer focused on:
+- Roblox development
+- Security & anti-cheat systems
+- Desktop applications
+- Web/backend systems
 
-Here are some ideas to get you started:
+## Current Projects
+- **QuantumSec** — Advanced Roblox anti-cheat system
+- **VulnDrive** — Licensing/backend & desktop application systems
+- **XcellsMath** — Educational website platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+LuaU • Lua • C# • C++ • Python • WinForms • JavaScript • HTML/CSS • Node.js • Express.js • SQLite • Git
+
+## GitHub Stats
+- Building private & public projects
+- Learning and improving every day
+
+---
+⭐ Check out my repositories below
