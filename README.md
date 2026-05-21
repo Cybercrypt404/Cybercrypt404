@@ -12,7 +12,7 @@
 - **XcellsMath** — Educational website platform
 
 ## Skills
-LuaU • Lua • C# • C++ • Python • WinForms • JavaScript • HTML/CSS • Node.js • Express.js • SQLite • Git
+LuaU • Lua • Python • WinForms • JavaScript • HTML/CSS • Node.js • Express.js • SQLite • Git
 
 ## GitHub Stats
 - Building private & public projects
